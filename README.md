@@ -9,8 +9,11 @@ Application Description
 Technologies
 ============
 Ballerina 0.9
+
 Android SDK
+
 Facebook API v.2.10
+
 Mysql database
     
 
